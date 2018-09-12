@@ -53,6 +53,9 @@
     "json",
     "jsonpath"
   ],
+  "react-native": {
+    "vm": false
+  },
   "scripts": {
     "eslint": "./node_modules/.bin/eslint test lib test-helpers",
     "remark": "./node_modules/.bin/remark -q -f .",
